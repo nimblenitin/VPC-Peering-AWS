@@ -6,10 +6,14 @@ Steps to create VPC Peering to Communicate between Two Instances-
 
 ```
 
-1.	Create two VPCs in your AWS Account
-2.	Create a VPC Peering  
-3.	Update the route table
-4.	Create a windows instance in each VPC  
+1. Create two VPCs in your AWS Account
+
+2. Create a VPC Peering  
+
+3. Update the route table
+
+4. Create a windows instance in each VPC  
+
 5. Connect to windows instance in second VPC with windows instance in the first VPC created.
 
 ```
